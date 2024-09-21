@@ -14,6 +14,9 @@ Bibliotecas e frameworks utilizados: <br>
     <p>Buscar Livro por Id</p>
   </li>
   <li>
+    <p>Buscar Livro por Editora</p>
+  </li>
+  <li>
     <p>Adicionar Livros</p>
   </li>
   <li>
